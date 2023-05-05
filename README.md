@@ -8,4 +8,4 @@ This is a command-line application developed using Python and SQLite to manage a
 - SQL queries to perform efficient searches based on criteria such as pick-up and drop-off locations, availability, and cab type.
 ## Getting Started
 - To get started with this project, you'll need to have Python 3 and SQLite installed on your system. You can clone the repository using the following command:  
-git clone https://github.com/[Adnan12345678910]/cab-management-system.git
+git clone 
